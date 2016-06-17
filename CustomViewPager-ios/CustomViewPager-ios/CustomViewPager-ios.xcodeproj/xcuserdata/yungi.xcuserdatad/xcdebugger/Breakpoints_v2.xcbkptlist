@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperFan/RootViewController.swift"
+            timestampString = "487763808.098298"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "RootViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperFan.RootViewController.__deallocating_deinit"
+                  moduleName = "SuperFan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yungi/swift-project/superfan/SuperFan/SuperFan/RootViewController.swift"
+                  timestampString = "487763808.173029"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperFan.RootViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; SuperFan.RootViewController"
+                  moduleName = "SuperFan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yungi/swift-project/superfan/SuperFan/SuperFan/RootViewController.swift"
+                  timestampString = "487763808.173161"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperFan.RootViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SuperFan.RootViewController&gt;"
+                  moduleName = "SuperFan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yungi/swift-project/superfan/SuperFan/SuperFan/RootViewController.swift"
+                  timestampString = "487763808.173238"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
